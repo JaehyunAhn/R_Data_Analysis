@@ -1,0 +1,121 @@
+run(OPA2Template.R)
+source("/Users/dkswogus7530/Desktop/OPA2Template.R")
+source("/Users/dkswogus7530/Desktop/OPA3communityTemplate.R")
+l
+source("/Users/dkswogus7530/Desktop/OPA3communityTemplate.R")
+x <- 10
+x
+src(read)
+read.csv("hw1_data.csv")
+hw = file(hw1_data.csv, "r")
+hw = file("hw1_data.csv", "r")
+hw = file("hw1_data.csv", "r")
+print(hw.col)
+hw
+description(hw)
+description(hw)
+description
+hw
+hw.description
+print(hw)
+data <- read.table("hw1_data.csv")
+data <- read.csv("hw1_data.csv")
+data
+data.col[1]
+data.col
+data[1]
+data[1,1]
+data[0,0]
+print(data.name)
+name
+attributes(data)
+attributes(data.names)
+attributes(data[names])
+attributes(data$names)
+data$names
+data[names]
+data.names
+names(data)
+class(data)
+class(data.row)
+row(data)
+data
+names(data)
+data[1:2]
+data[,1:2]
+data[1:2,]
+rows(data)
+row(da)
+row(data)
+data[152:,]
+data[152:153,]
+data[152:154,]
+data[47,]
+data.nan
+data.na
+is.na(data)
+is.na(data[,1]) == TRUE
+is.na(data[1,]) == TRUE
+is.na(data[,1])
+is.na(data[,1] == TRUE)
+is.na(data)
+is.na(data[,1])
+print(if(is.na(data[,1])==TRUE))
+print(if(is.na(data[,1])==TRUE)
+))
+print(if(is.na(data[,1])==TRUE))
+print(if(is.na(data[,1])==TRUE));
+count(is.na(data[,1])==TRUE))
+coun t
+count
+names(is.na(data[,1]))==TRUE
+data[names(is.na(data[,1]))==TRUE]
+data[is.na(data[,1])==TRUE]
+is.na(data[,1])
+z <- c(TRUE, FALSE, NA)
+sum(z)
+table(z)["TRUE"]
+lenghth(z[z==TURE])
+lenghth(z[z==TRUE])
+data[,1 "TRUE"]
+data["TRUE"]
+table(data[,1])["TRUE"]
+data[,1]
+is.na(data[,1])
+is.na(data[,1])["TRUE"]
+table(is.na(data[,1]))["TRUE"]
+mean(data[,1])
+mean
+mean(1,2,3)
+mean(1,2,3,4)
+x <- c(1,2,3)
+mean(x)
+mean(data[,1])
+data[,1]
+data
+sum(data[,1])
+mean(data[,1], na.rm=TRUE)
+data.name
+name(data)
+names(data)
+newdata <- data[ which(data$Ozone>31 & data$Temp > 90)]
+newdata <- data[ which(data$Ozone>31 & data$Temp> 90)]
+newdata <- data[ which(data$Ozone>31)]
+newdata <- data[ which(Ozone>31)]
+newdata <- data[ which(data$Ozone>31)]
+newdata <- data[ which(data.Ozone>31)]
+newdata <- subset(mydata, Ozone>31 & Temp >90)
+newdata <- subset(data, Ozone>31 & Temp >90)
+newdata
+mean(newdata$Solar.R)
+data
+newdata <- subset(data, Month == 6)
+newdata
+mean(newdata.Temp)
+mean(newdata$Temp)
+newdata <- subset(data, Month==5)
+max(newdata[,1])
+newdata
+max(newdata[,1], na.rm=TURE)
+max(newdata[,1], na.rm=TRUE)
+str(tapply)

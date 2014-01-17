@@ -1,0 +1,254 @@
+run(OPA2Template.R)
+source("/Users/dkswogus7530/Desktop/OPA2Template.R")
+source("/Users/dkswogus7530/Desktop/OPA3communityTemplate.R")
+l
+source("/Users/dkswogus7530/Desktop/OPA3communityTemplate.R")
+list(rep(1,4), rep(2,3), rep(3,2), rep(4,1))
+mapply(rep,1:4, 4:1)
+debug(lm)
+n
+traceback(lm)
+cube <- function (x, n) {}
+cube <- function (x, n) { x^3}
+cube(3)
+pow <- function (x, n) { x^n}
+pow()
+x <- 1:10
+if(x > 5) { x <- 0}
+library(datasets)
+data(iris)
+?iris
+Sepal.Length
+iris
+mean(iris$Sepal.Length)
+colMeans(iris)
+rowMeans(iris[,1:4])
+apply(iris, 1, mean)
+apply(iris, 2, mean)
+apply(iris[,1:4], 1, mean)
+colMeans(iris)
+apply(iris,1,mean)
+rowMeans(iris[,1:3])
+rowMeans(iris[,1:4])
+apply(iris[, 1:4], 2, mean)
+iris
+newdata <-subset(iris, virginica)
+newdata <-subset(iris, iris$virginica)
+newdata <-subset(iris, Species == virginica)
+newdata <-subset(iris, Species = virginica)
+newdata
+newdata <-subset(iris, Species == virginica)
+iris[,4]
+iris[,species
+;
+]
+iris$Species
+iris$Species == virginica
+iris$Species
+newdata <- subset(iris, Species == "virginica")
+newdata
+mean(newdata$Sepal.Length)
+?mtcars
+mtcars
+mean(mtcars$mpg, mtcars$cyl)
+split(mtcars, mtcars$cyl)
+sapply(mtcars, cyl, mean)
+tapply(mtcars$mpg, mtcars$cyl, mean)
+t <- tapply(mtcars$mpg, mtcars$cyl, mean)
+abs(t[1] - t[3])
+f <- function(x) {#
+        g <- function(y) {#
+                y + z#
+        }#
+        z <- 4#
+        x + g(x)#
+}
+f
+z <- 10
+f(3)
+debug(ls)
+ls
+pow <- function(x = 4, n = 3) {#
+        x^n#
+}
+pow()
+tapply(mtcars$mpg, mtcars$cyl, mean)
+26.66364 - 15.10000
+mtcars
+tapply(mtcars$hp, mtcars$cyl, mean)
+t <- tapply(mtcars$hp, mtcars$cyl, mean)
+abs(t[1] - t[3])
+source("http://spark-public.s3.amazonaws.com/compdata/scripts/getmonitor-test.R")
+getmonitor.testscript()
+exit
+ls(testscript)
+ls
+dir
+dir("getmonitor.r")
+x <- 10
+ls
+x
+list
+discription
+discription()
+getmonitor("a","abc")
+source("getmonitor.r")
+getmonitor
+getmonitor(13,"specdata")
+source("getmonitor.r")
+source("getmonitor.r")
+getmonitor(13,"specdata")
+paste
+source("getmonitor.r")
+getmonitor(13,"specdata")
+source("getmonitor.r")
+getmonitor(13,"specdata")
+source("getmonitor.r")
+getmonitor(13,"specdata")
+getmonitor(13,"hw2_specdata")
+getmonitor(001,"hw2_specdata")
+source("getmonitor.r")
+getmonitor(001,"hw2_specdata")
+read.csv("./hw2_specdata/001.csv")
+read.csv("hw2_specdata/001.csv")
+read.csv("hw2_specdata/001.csv")
+clr
+clear
+clean
+source(getmonitor.r)
+source("getmonitor.r")
+getmonitor(001,"hw2_specdata")
+read.csv("hw2_specdata/001.csv")
+getmonitor(100,"hw2_specdata")
+source("getmonitor.r")
+getmonitor(100,"hw2_specdata")
+len(1)
+nchar(1)
+source("getmonitor.r")
+source("getmonitor.r")
+getmonitor(1,"hw2_specdata")
+source("getmonitor.r")
+getmonitor(1,"hw2_specdata")
+source("getmonitor.r")
+getmonitor(1,"hw2_specdata")
+source("getmonitor.r")
+getmonitor(1,"hw2_specdata")
+getmonitor(1,"hw2_specdata",TRUE)
+source("getmonitor.r")
+getmonitor(1,"hw2_specdata",TRUE)
+source("getmonitor.r")
+getmonitor(101,"hw2_specdata",TRUE)
+getmonitor(101,"hw2_specdata")
+data <- getmonitor(1, "hw2_specdata")
+head(data)
+source("getmonitor.r")
+data <- getmonitor(1, "hw2_specdata")
+head(data)
+data
+source("getmonitor.r")
+source("getmonitor.r")
+data <- getmonitor(1, "hw2_specdata")
+head(data)
+source("getmonitor.r")
+data <- getmonitor(1, "hw2_specdata",TRUE)
+source("http://spark-public.s3.amazonaws.com/compdata/scripts/getmonitor-test.R")
+getmonitor.testscript()
+getmonitor.testscript()
+source("complete.r")
+complete("default",c(1,2,3,5))
+source("complete.r")
+complete("default",c(1,2,3,5))
+source("complete.r")
+source("complete.r")
+complete("default",c(1,2,3,5))
+source("complete.r")
+complete("default",c(1,2,3,5))
+complete("default",c(1,2,3,5,14))
+source("complete.r")
+complete("default",30:25)
+source("complete.r")
+complete("default",30:25)
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+source("complete.r")
+complete("specdata",30:25)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+source("complete.r")
+complete("specdata",30)
+complete("specdata",1)
+source("complete.r")
+source("complete.r")
+complete("specdata",1)
+complete("specdata", c(2, 4, 8, 10, 12))
+source("http://spark-public.s3.amazonaws.com/compdata/scripts/complete-test.R")
+complete.testscript()
+complete("specdata", 30:25)
+source("complete.r")
+complete("specdata", 30:25)
+complete.testscript()
+?cor
+?corr
+?cor
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+corr("specdata")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("corr.R")
+corr("specdata")
+source("http://spark-public.s3.amazonaws.com/compdata/scripts/corr-test.R")
+corr.testscript()
